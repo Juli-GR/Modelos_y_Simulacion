@@ -10,7 +10,7 @@ def expression():
         count += 1
     return count
 
-expected = "nu se"
+expected = np.e
 
 suma = [0]*len(N)
 i_suma = 0
